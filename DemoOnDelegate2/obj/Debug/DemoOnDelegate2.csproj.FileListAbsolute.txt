@@ -1,0 +1,6 @@
+E:\Pranavi\10th Jan\DemoOnDelegate2\bin\Debug\DemoOnDelegate2.exe.config
+E:\Pranavi\10th Jan\DemoOnDelegate2\bin\Debug\DemoOnDelegate2.exe
+E:\Pranavi\10th Jan\DemoOnDelegate2\bin\Debug\DemoOnDelegate2.pdb
+E:\Pranavi\10th Jan\DemoOnDelegate2\obj\Debug\DemoOnDelegate2.csprojAssemblyReference.cache
+E:\Pranavi\10th Jan\DemoOnDelegate2\obj\Debug\DemoOnDelegate2.exe
+E:\Pranavi\10th Jan\DemoOnDelegate2\obj\Debug\DemoOnDelegate2.pdb

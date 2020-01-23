@@ -1,0 +1,6 @@
+E:\Pranavi\10th Jan\DemoOnBinary\bin\Debug\DemoOnBinary.exe.config
+E:\Pranavi\10th Jan\DemoOnBinary\bin\Debug\DemoOnBinary.exe
+E:\Pranavi\10th Jan\DemoOnBinary\bin\Debug\DemoOnBinary.pdb
+E:\Pranavi\10th Jan\DemoOnBinary\obj\Debug\DemoOnBinary.csprojAssemblyReference.cache
+E:\Pranavi\10th Jan\DemoOnBinary\obj\Debug\DemoOnBinary.exe
+E:\Pranavi\10th Jan\DemoOnBinary\obj\Debug\DemoOnBinary.pdb
